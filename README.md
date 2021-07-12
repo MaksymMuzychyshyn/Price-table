@@ -1,4 +1,4 @@
-Your site is published at https://maksymmuzychyshyn.github.io/Price-table/
+Your site is published at https://maksymmuzychyshyn.github.io/Price-tables/
 
 The tech stack is:
 
