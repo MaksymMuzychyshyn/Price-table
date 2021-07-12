@@ -1,0 +1,19 @@
+
+@import "variables.scss";
+@import "price-card.scss";
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+.body {
+  box-sizing: border-box;
+}
+
+.page {
+  background-color: $page-color;
+  min-height: 100vh;
+  min-width: 100vh;
+  display: flex;
+  color: $text-color;
+}
